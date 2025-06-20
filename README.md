@@ -12,8 +12,7 @@ A Streamlit chatbot application for research and analysis of news articles using
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd News\ Research\ Analysis
+    git clone https://github.com/zer-art/News-Research-Analysis
     ```
 
 2. **Install dependencies:**
