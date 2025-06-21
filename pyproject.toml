@@ -3,7 +3,7 @@ name = "news-research-analysis"
 version = "0.1.0"
 description = "A Streamlit chatbot for research and analysis of news articles using RAG and Gemini."
 authors = [
-    { name="Your Name", email="your.email@example.com" }
+    { name="Pawan Parida", email="13zero7two005@gmail.com" }
 ]
 dependencies = [
     "streamlit",
